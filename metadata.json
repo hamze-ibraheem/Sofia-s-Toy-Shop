@@ -1,0 +1,6 @@
+{
+  "name": "Sofia's Toy Shop",
+  "description": "Complete, single-file HTML website for a small neighborhood toy shop called Sofia's Toy Shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
